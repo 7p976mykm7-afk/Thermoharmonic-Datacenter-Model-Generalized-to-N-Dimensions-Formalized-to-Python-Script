@@ -1,1 +1,3 @@
 # Thermoharmonic-Datacenter-Model-Generalized-to-N-Dimensions-Formalized-to-Python-Script
+
+\(\begin{cases}\mathbf{M}\"{\mathbf{x}}(t)+\mathbf{\Gamma }\.{\mathbf{x}}(t)+\mathbf{Kx}(t)-\sum \mathbf{C}_{ij}\mathbf{x}_{j}(t-\tau _{ij})+\beta \mathbf{x}(t)^{\circ 3}=\mathbf{F}_{con}(t)+\mathbf{\Sigma }\.{\mathbf{L}}_{t}^{\alpha }\\ \mathbf{F}_{con}(t)=-\mathbf{R}^{-1}\mathbf{B}^{T}\nabla _{\mathbf{x}}V\end{cases}\)Node Coordinates: Wasatch Fault (40.76°N, 111.89°W), Antarctic Ice Sheet (75.00°S, 105.00°W), Mid-Atlantic Ridge (30.12°N, 42.12°W).System Status: Transitions from linear stability to an infinitely folding chaotic attractor (\(D_{KY} \approx 2.06\)) when external forcing fields bypass the structural threshold \(F_{crit}\).
